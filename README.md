@@ -1,3 +1,6 @@
+🚀 **Live Demo:** [Try the App Here](https://heart-disease-prediction-system-beqghzcebiu977iqfnilw8.streamlit.app/)
+
+📂 **GitHub Repository:** [View Source Code](https://github.com/moham3d-hilali/Heart-Disease-Prediction-System)
 # Heart Disease Prediction System
 
 A simple machine learning web application that predicts heart disease using patient health data.
